@@ -950,6 +950,8 @@ footer ul a li {
     .navbar-inverse-scroll {
         display: inline-block;
         float: right;
+        position: relative;
+        top: -85px;
     }
 
     .top-cat-scroll {
